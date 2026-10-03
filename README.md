@@ -131,8 +131,8 @@ Traditional text-only language models miss spatial relationships in real-world p
 ### 1. Clone & Install
 
 ```bash
-git clone <repository-url>
-cd document2action
+git clone https://github.com/Rishwanth-Naguri/Document2Action-MLH-RH.git
+cd Document2Action-MLH-RH
 npm install
 ```
 
@@ -192,4 +192,4 @@ Document2Action is built to deploy seamlessly to **Vercel**:
 
 ## License
 
-MIT License. Built for the Google Gen AI Hackathon.
+MIT License. Built for the Google Gen AI Hackathon (MLH × React Hyderabad).
